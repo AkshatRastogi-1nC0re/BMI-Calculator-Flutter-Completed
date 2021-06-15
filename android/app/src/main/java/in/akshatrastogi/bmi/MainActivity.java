@@ -1,4 +1,4 @@
-package co.appbrewery.bmicalculator;
+package in.akshatrastogi.bmi;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

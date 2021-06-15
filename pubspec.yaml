@@ -1,4 +1,4 @@
-name: bmi_calculator
+name: bmi
 description: A new Flutter application.
 
 version: 1.0.0+1
@@ -16,6 +16,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  change_app_package_name: ^0.1.3
 
 flutter:
   uses-material-design: true
